@@ -65,7 +65,7 @@ My personal portfolio showcasing my background, technical interests, and develop
 
 **Tech:** Next.js · TypeScript · GSAP
 
-[View my repositories](https://github.com/IvanRamiro?tab=repositories)
+[View my Portfolio Webstite]([https://ivan-ramiro-portfolio.vercel.app/])
 
 ### 🔔 Personal Nudge
 
@@ -81,21 +81,8 @@ An academic game development project created with teammates as part of my thesis
 
 **Tech:** C# · Unity
 
-[Explore my GitHub](https://github.com/IvanRamiro?tab=repositories)
+[Explore my GitHub]([https://scivrse.web.app/])
 
-> Replace the project links above with the exact repository URLs when you're ready. Only label projects as deployed or completed when that is accurate.
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=IvanRamiro&show_icons=true&hide_border=true&bg_color=0D1117&title_color=90CAF9&icon_color=2196F3&text_color=C9D1D9" width="95%" alt="GitHub statistics"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IvanRamiro&layout=compact&hide_border=true&bg_color=0D1117&title_color=90CAF9&text_color=C9D1D9&langs_count=8" width="95%" alt="Most-used programming languages"/>
-
-<img src="https://streak-stats.demolab.com/?user=IvanRamiro&theme=github-dark-blue&hide_border=true&background=0D1117&ring=2196F3&fire=90CAF9&currStreakLabel=90CAF9" width="95%" alt="GitHub contribution streak"/>
-
-</div>
 
 ## 🎯 Current Goals
 
