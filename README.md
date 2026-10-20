@@ -1,6 +1,10 @@
- <div align="center">
-
-<img src="https://wutheringwaves.kurogames.com/website-preface/video/bg/bg-poster.png" width="100%" alt="Wuthering Waves official background artwork" />
+<div align="center">
+  <img
+    src="Hiyuki.jpg"
+    width="100%"
+    alt="Wuthering Waves background artwork"
+  />
+</div>
 
 <br/>
 
