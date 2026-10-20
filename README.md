@@ -1,134 +1,288 @@
 
-<!-- Profile README for github.com/IvanRamiro -->
+<!--
+  JOHN IVAN RAMIRO — GITHUB PROFILE
+  Theme: Midnight Blue / Anime Cyberpunk
+  Profile: https://github.com/IvanRamiro
+-->
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:161B22,100:0D47A1&height=200&section=header&text=JOHN%20IVAN%20RAMIRO&fontSize=36&fontColor=90CAF9&animation=fadeIn&fontAlignY=38&desc=COMPUTER%20ENGINEER%20%7C%20DEVELOPER&descSize=14&descAlignY=60" width="100%" alt="Dark blue developer banner"/>
+<!-- ═══════════════ HERO ═══════════════ -->
 
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=19&duration=3000&pause=1000&color=90CAF9&center=true&vCenter=true&width=650&lines=Hey%2C+I'm+Ivan+%F0%9F%91%8B;Computer+Engineering+Graduate;Aspiring+Full-Stack+Developer;Building+projects+and+learning+every+day;Code.+Learn.+Improve.+Repeat.+%E2%9A%A1" alt="Animated typing introduction"/>
-</a>
+<img
+  src="https://capsule-render.vercel.app/api?type=waving&color=0:070B14,45:101C35,100:0D47A1&height=230&section=header&text=JOHN%20IVAN%20RAMIRO&fontSize=38&fontColor=E3F2FD&fontAlignY=36&desc=ENGINEERING%20MINDSET%20%E2%80%A2%20DEVELOPER%20IN%20PROGRESS&descSize=13&descColor=90CAF9&descAlignY=57&animation=fadeIn"
+  width="100%"
+  alt="John Ivan Ramiro — Midnight blue developer banner"
+/>
 
 <br/>
 
-<a href="https://github.com/IvanRamiro">
-  <img src="https://img.shields.io/badge/GitHub-IvanRamiro-161B22?style=for-the-badge&logo=github&logoColor=90CAF9" alt="GitHub profile"/>
+<img
+  src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=500&size=17&duration=3000&pause=1000&color=90CAF9&center=true&vCenter=true&width=650&lines=Computer+Engineering+Graduate;Building+for+the+Web;Exploring+Backend+%26+Infrastructure;Learn.+Build.+Refine.+Repeat."
+  alt="Animated developer introduction"
+/>
+
+<br/><br/>
+
+<a href="https://ivan-ramiro-portfolio.vercel.app/">
+  <img src="https://img.shields.io/badge/EXPLORE%20MY%20PORTFOLIO-0D47A1?style=for-the-badge&logo=vercel&logoColor=white" alt="Explore my portfolio"/>
 </a>
+&nbsp;
 <a href="https://github.com/IvanRamiro?tab=repositories">
-  <img src="https://img.shields.io/badge/Explore-My_Projects-161B22?style=for-the-badge&logo=github&logoColor=90CAF9" alt="Explore my projects"/>
+  <img src="https://img.shields.io/badge/VIEW%20PROJECTS-111827?style=for-the-badge&logo=github&logoColor=90CAF9" alt="View projects"/>
 </a>
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/FOCUS-FULL--STACK%20DEVELOPMENT-101C35?style=flat-square&labelColor=070B14" alt="Focus: Full-stack development"/>
+<img src="https://img.shields.io/badge/INTEREST-BACKEND%20%26%20NETWORKING-101C35?style=flat-square&labelColor=070B14" alt="Interest: Backend and networking"/>
 
 </div>
 
 ---
 
-## 🌌 About Me
+<!-- ═══════════════ INTRODUCTION ═══════════════ -->
 
-Hey! I'm **John Ivan Ramiro**, a Computer Engineering graduate interested in software development, backend systems, and networking.
+## `01` — THE DEVELOPER
 
-I enjoy building projects, exploring new technologies, and understanding how things work behind the scenes. I'm continuously improving my coding skills through hands-on practice and personal projects.
+Hey, I'm **Ivan** — a Computer Engineering graduate interested in building useful software and understanding the systems behind it.
 
-- 💻 Interested in Full-Stack and Backend Development.
-- 🚀 Building web applications and improving my development workflow.
-- 🗄️ Exploring databases, APIs, and application architecture.
-- 🌐 Interested in networking, infrastructure, and DevOps.
-- 🎮 Outside coding, I enjoy anime, gaming, photography, and movies.
+I enjoy working on web applications, exploring backend technologies, and improving the way I write and structure code. I learn best by building real projects, experimenting with new tools, and figuring things out along the way.
 
-> *Still learning, still building, and always looking for the next level.*
+I'm still growing as a developer, but I'm serious about improving my fundamentals, writing maintainable code, and building projects I can confidently share.
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+**▸ WHAT I BUILD**
+
+- Web applications
+- Personal and academic projects
+- Database-driven applications
+- Experiments with UI and animation
+
+</td>
+<td width="50%" valign="top">
+
+**▸ WHAT INTERESTS ME**
+
+- Full-stack engineering
+- Backend development and APIs
+- Networking and infrastructure
+- DevOps and software quality
+
+</td>
+</tr>
+</table>
 
 ---
 
-## ⚔️ Tech Stack
+<!-- ═══════════════ TECHNOLOGY ═══════════════ -->
 
-### 💻 Languages
+## `02` — TECHNOLOGY & TOOLS
+
+<sub>Technologies I've explored and tools I use or have worked with.</sub>
+
+### Development
 
 <p>
-  <img src="https://skillicons.dev/icons?i=js,ts,python,cs,html,css&theme=dark" alt="JavaScript, TypeScript, Python, C sharp, HTML, CSS"/>
+  <img src="https://skillicons.dev/icons?i=js,ts,html,css,python,cs&theme=dark" alt="JavaScript, TypeScript, HTML, CSS, Python, C sharp"/>
 </p>
 
-### ⚛️ Frontend Development
+### Frontend & Interface Design
 
 <p>
   <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,figma&theme=dark" alt="React, Next.js, Tailwind CSS, Figma"/>
 </p>
 
-### 🛠️ Backend and Databases
+### Backend & Data
 
 <p>
   <img src="https://skillicons.dev/icons?i=nodejs,supabase,postgres,mysql&theme=dark" alt="Node.js, Supabase, PostgreSQL, MySQL"/>
 </p>
 
-### 🔧 Tools and Infrastructure
+### Engineering Tools
 
 <p>
   <img src="https://skillicons.dev/icons?i=git,github,vscode,docker,linux,postman,vercel&theme=dark" alt="Git, GitHub, VS Code, Docker, Linux, Postman, Vercel"/>
 </p>
 
----
+### Additional Experience
 
-## 🚀 Featured Projects
-
-### 💠 Developer Portfolio
-
-My personal portfolio showcasing my background, technical interests, and development projects.
-
-**Tech Stack:** Next.js · TypeScript · GSAP
-
-🔗 [View My Portfolio Website](https://ivan-ramiro-portfolio.vercel.app/)
-
-### 🔔 Personal Nudge
-
-A reminder application concept focused on personal reminders, reusable routines, scheduled steps, and progress tracking.
-
-**Planned Tech Stack:** Next.js · TypeScript · Supabase · PostgreSQL
-
-*Status: In development / planning.*
-
-### 🎮 Unity Game Development
-
-An academic game development project created with teammates as part of my thesis.
-
-**Tech Stack:** C# · Unity
-
-🔗 [Play the Project](https://scivrse.web.app/)
+<p>
+  <img src="https://img.shields.io/badge/Cisco-Networking-0D47A1?style=flat-square&logo=cisco&logoColor=white" alt="Cisco networking"/>
+  <img src="https://img.shields.io/badge/Unity-Game%20Development-111827?style=flat-square&logo=unity&logoColor=white" alt="Unity game development"/>
+  <img src="https://img.shields.io/badge/GSAP-Web%20Animation-101C35?style=flat-square&logo=greensock&logoColor=88CE02" alt="GSAP web animation"/>
+</p>
 
 ---
 
-## 🎯 Current Goals
+<!-- ═══════════════ SELECTED WORK ═══════════════ -->
 
-- [ ] Improve my JavaScript and TypeScript fundamentals.
-- [ ] Build more full-stack applications.
-- [ ] Strengthen backend development and database design.
-- [ ] Improve testing, code quality, and application security.
-- [ ] Learn more about DevOps and networking.
-- [ ] Keep building projects and improving my portfolio.
+## `03` — SELECTED WORK
+
+<sub>A collection of projects, experiments, and things I'm building.</sub>
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### ◈ Personal Portfolio
+
+<a href="https://ivan-ramiro-portfolio.vercel.app/">
+  <img src="https://img.shields.io/badge/LIVE%20WEBSITE-90CAF9?style=flat-square&logo=vercel&logoColor=070B14" alt="Visit live portfolio"/>
+</a>
+
+My personal developer portfolio, designed to showcase my background, technical interests, and projects.
+
+**Built with**
+
+`Next.js` `TypeScript` `GSAP`
+
+[Visit Website →](https://ivan-ramiro-portfolio.vercel.app/)
+
+</td>
+<td width="50%" valign="top">
+
+### ◈ SCIVRSE
+
+<a href="https://scivrse.web.app/">
+  <img src="https://img.shields.io/badge/PROJECT%20WEBSITE-90CAF9?style=flat-square&logo=googlechrome&logoColor=070B14" alt="Visit SCIVRSE"/>
+</a>
+
+A game-related project associated with my academic game development experience.
+
+**Technology**
+
+`C#` `Unity`
+
+[Explore Project →](https://scivrse.web.app/)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### ◈ Personal Nudge
+
+<img src="https://img.shields.io/badge/STATUS-IN%20PROGRESS-101C35?style=flat-square&labelColor=070B14" alt="Project in progress"/>
+
+A personal reminder application concept focused on routines, scheduled steps, and progress tracking.
+
+**Planned stack**
+
+`Next.js` `TypeScript` `Supabase`
+
+</td>
+<td width="50%" valign="top">
+
+### ◈ More Experiments
+
+<img src="https://img.shields.io/badge/STATUS-ONGOING-101C35?style=flat-square&labelColor=070B14" alt="Ongoing learning"/>
+
+I'm continuously exploring new ideas, practicing programming, and improving existing projects.
+
+**My approach**
+
+Build → Test → Learn → Improve
+
+[Browse Repositories →](https://github.com/IvanRamiro?tab=repositories)
+
+</td>
+</tr>
+</table>
 
 ---
 
-## 🎮 Beyond the Code
+<!-- ═══════════════ CURRENT DIRECTION ═══════════════ -->
+
+## `04` — CURRENT DIRECTION
+
+<table>
+<tr>
+<td width="8%" align="center" valign="top">01</td>
+<td valign="top">
+
+**Strengthen the fundamentals**
+
+Improve my JavaScript and TypeScript knowledge, problem-solving, and programming logic.
+
+</td>
+</tr>
+<tr>
+<td align="center" valign="top">02</td>
+<td valign="top">
+
+**Build better applications**
+
+Practice backend development, database design, API integration, and maintainable architecture.
+
+</td>
+</tr>
+<tr>
+<td align="center" valign="top">03</td>
+<td valign="top">
+
+**Improve engineering quality**
+
+Learn more about testing, debugging, security, deployment, and reliable software practices.
+
+</td>
+</tr>
+<tr>
+<td align="center" valign="top">04</td>
+<td valign="top">
+
+**Explore infrastructure**
+
+Continue developing my interests in networking, Linux, and DevOps.
+
+</td>
+</tr>
+</table>
+
+---
+
+<!-- ═══════════════ PERSONAL SIDE ═══════════════ -->
+
+## `05` — OFF THE KEYBOARD
 
 <div align="center">
 
-| 🎌 Anime | 🎮 Gaming | 📸 Photography | 🎬 Movies |
-|:---:|:---:|:---:|:---:|
-| Great stories | New worlds | Capturing moments | Exploring genres |
+<img src="https://img.shields.io/badge/01-ANIME-101C35?style=for-the-badge&labelColor=070B14" alt="Anime"/>
+<img src="https://img.shields.io/badge/02-GAMING-101C35?style=for-the-badge&labelColor=070B14" alt="Gaming"/>
+<img src="https://img.shields.io/badge/03-PHOTOGRAPHY-101C35?style=for-the-badge&labelColor=070B14" alt="Photography"/>
+<img src="https://img.shields.io/badge/04-MOVIES-101C35?style=for-the-badge&labelColor=070B14" alt="Movies"/>
+
+<br/><br/>
+
+*Outside of development, I enjoy exploring fictional worlds, capturing moments, and discovering stories worth remembering.*
 
 </div>
 
 ---
 
+<!-- ═══════════════ FOOTER ═══════════════ -->
+
 <div align="center">
 
-### 🌠 Keep Learning. Keep Building.
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D47A1,50:101C35,100:070B14&height=2&section=footer" width="100%" alt="Blue divider"/>
 
-*Every project is another step forward.*
+<br/>
 
-<a href="https://github.com/IvanRamiro?tab=repositories">
-  <img src="https://img.shields.io/badge/Explore_My_Projects-0D1117?style=for-the-badge&logo=github&logoColor=90CAF9" alt="Explore my projects"/>
+### BUILD WITH PURPOSE. KEEP GETTING BETTER.
+
+<sub>One project at a time. One lesson at a time.</sub>
+
+<br/><br/>
+
+<a href="https://github.com/IvanRamiro">
+  <img src="https://img.shields.io/badge/GITHUB-IvanRamiro-101C35?style=for-the-badge&logo=github&logoColor=90CAF9" alt="IvanRamiro on GitHub"/>
 </a>
 
 <br/><br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D47A1,100:0D1117&height=100&section=footer" width="100%" alt="Blue gradient footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D47A1,60:101C35,100:070B14&height=100&section=footer" width="100%" alt="Midnight blue footer"/>
 
 </div>
