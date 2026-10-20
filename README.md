@@ -1,94 +1,118 @@
-<div align="center">
-  <img
-    src="Hiyuki.jpg"
-    width="50%"
-    alt="Wuthering Waves background artwork"
-  />
-</div>
+ <div align="center">
 
-<br/>
+  <img src="./Hiyuki.jpg" width="58%" alt="Hiyuki — Wuthering Waves inspired profile artwork" />
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=22&duration=3000&pause=900&color=90CAF9&center=true&vCenter=true&width=700&lines=Hey%2C+I'm+Ivan+%F0%9F%91%8B;Computer+Engineering+Graduate;Full-Stack+Developer+in+Progress;Exploring+Code%2C+Networks+%26+DevOps" alt="Animated introduction" />
+  <br/>
 
-<p>
-  <em>Resonating with technology, one project at a time.</em>
-</p>
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=3000&pause=900&color=FF6B81&center=true&vCenter=true&width=700&lines=Hey%2C+I'm+Ivan+%F0%9F%91%8B;Computer+Engineering+Graduate;Aspiring+Full-Stack+Developer;Building+Projects.+Learning+Every+Day." alt="Animated introduction" />
 
-<a href="https://ivan-ramiro-portfolio.vercel.app/">
-  <img src="https://img.shields.io/badge/Portfolio-Visit-90CAF9?style=flat-square&logo=vercel&logoColor=0D1117" alt="Portfolio" />
-</a>
-<a href="https://github.com/IvanRamiro">
-  <img src="https://img.shields.io/badge/GitHub-IvanRamiro-161B22?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
-</a>
-<a href="https://scivrse.web.app/">
-  <img src="https://img.shields.io/badge/SCIVRSE-Explore-0D47A1?style=flat-square&logo=googlechrome&logoColor=white" alt="SCIVRSE" />
-</a>
+  <p>
+    <strong>SOFTWARE DEVELOPMENT · NETWORKING · DEVOPS</strong>
+  </p>
+
+  <p>
+    Turning ideas into practical projects, one step at a time.
+  </p>
+
+  <a href="https://ivan-ramiro-portfolio.vercel.app/">
+    <img src="https://img.shields.io/badge/PORTFOLIO-FF6B81?style=for-the-badge&logo=vercel&logoColor=white" alt="Visit my portfolio" />
+  </a>
+  <a href="https://github.com/IvanRamiro">
+    <img src="https://img.shields.io/badge/GITHUB-242124?style=for-the-badge&logo=github&logoColor=white" alt="My GitHub profile" />
+  </a>
+  <a href="https://scivrse.web.app/">
+    <img src="https://img.shields.io/badge/SCIVRSE-CB416B?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Explore SCIVRSE" />
+  </a>
 
 </div>
 
 ---
 
-### ◈ A little about me
+## <img src="https://img.shields.io/badge/01-ABOUT_ME-E84A70?style=flat-square" alt="01 About me" />
 
-Hey! I'm Ivan, a Computer Engineering graduate who enjoys building things, solving problems, and learning how technology works behind the scenes.
+Hi, I'm Ivan, a **Computer Engineering graduate** interested in building useful software and understanding the systems behind it.
 
-I'm currently improving my skills in full-stack development while exploring networking, system infrastructure, and DevOps. I like working on real projects because that's where I learn the most, even when things get complicated.
+I'm currently developing my skills in full-stack web development, with a growing interest in backend engineering, databases, networking, and DevOps. I learn best by working on real projects, experimenting with new tools, and figuring out how to solve problems along the way.
 
-When I'm not coding, you'll probably find me playing games, taking photos, or watching movies.
+My goal is to grow as a developer by building maintainable applications, strengthening my technical foundation, and continuously improving my approach to software development.
 
-> *Still learning. Still building. Always exploring.*
+> *Curiosity drives the idea. Consistency turns it into a project.*
 
-### ◈ My current resonance
+## <img src="https://img.shields.io/badge/02-TECH_STACK-FF6B81?style=flat-square" alt="02 Tech stack" />
 
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,supabase,mysql,git,github,linux,docker&theme=dark" alt="Technology skills" />
+### Languages & web development
 
-<p>
-  <sub>Currently focusing on JavaScript, TypeScript, full-stack development, databases, and better software engineering practices.</sub>
-</p>
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs&theme=dark" alt="HTML, CSS, JavaScript, TypeScript, React, Next.js, and Node.js" />
 
-### ◈ Things I've been building
+### Databases & developer tools
 
-**⌘ Personal Portfolio**
+<img src="https://skillicons.dev/icons?i=supabase,mysql,git,github,vscode&theme=dark" alt="Supabase, MySQL, Git, GitHub, and VS Code" />
 
-My personal space to showcase my background, technical skills, and projects, with a focus on web development and my interest in networking.
+### Systems & infrastructure
 
-[↗ Explore my portfolio](https://ivan-ramiro-portfolio.vercel.app/)
+<img src="https://skillicons.dev/icons?i=linux,docker,postman&theme=dark" alt="Linux, Docker, and Postman" />
 
-**✦ SCIVRSE**
+<sub>My current focus is JavaScript, TypeScript, full-stack development, database integration, and writing cleaner, more maintainable code. I'm continuing to build practical experience with the tools above.</sub>
 
-A web project that reflects my interest in creating and exploring digital experiences.
+## <img src="https://img.shields.io/badge/03-SELECTED_PROJECTS-E84A70?style=flat-square" alt="03 Selected projects" />
 
-[↗ Visit SCIVRSE](https://scivrse.web.app/)
+### <img src="https://img.shields.io/badge/01-LIVE_PROJECT-FF6B81?style=flat-square" alt="Live project" /> Personal Portfolio
 
-**◈ Personal Nudge — In Progress**
+My developer portfolio, built to present my background, technical interests, and projects in one place.
 
-A reminder app concept built around simple nudges and reusable routines, designed to help people remember everyday tasks and follow through on them.
+- **Focus:** personal branding, web development, and responsive presentation
+- **Purpose:** showcase my work and ongoing growth as an engineer
 
-*Planned stack: Next.js, TypeScript, Supabase, and PostgreSQL.*
+[**View portfolio →**](https://ivan-ramiro-portfolio.vercel.app/)
 
-### ◈ Beyond the screen
+---
 
-- 🎮 Gaming, especially Wuthering Waves
-- 📷 Photography and capturing everyday moments
-- 🎬 Movies and stories worth remembering
-- 🖥️ Exploring software, networking, and infrastructure
+### <img src="https://img.shields.io/badge/02-LIVE_PROJECT-CB416B?style=flat-square" alt="Live project" /> SCIVRSE
 
-### ◈ Let's connect
+A web project that reflects my interest in creating digital experiences and exploring ideas through the web.
 
-I'm open to learning opportunities and junior developer roles where I can contribute, keep improving, and grow as an engineer.
+[**Explore SCIVRSE →**](https://scivrse.web.app/)
+
+---
+
+### <img src="https://img.shields.io/badge/03-IN_PROGRESS-9D174D?style=flat-square" alt="In progress" /> Personal Nudge
+
+A reminder app concept built around individual nudges and reusable routines to help people remember everyday tasks and follow through on them.
+
+- **Planned stack:** Next.js, TypeScript, Supabase, and PostgreSQL
+- **Focus:** authentication, database design, scheduled reminders, and routine tracking
+
+*Currently in the planning and development process.*
+
+## <img src="https://img.shields.io/badge/04-BEYOND_CODE-FF6B81?style=flat-square" alt="04 Beyond code" />
+
+Outside development, I enjoy gaming, photography, and movies. I'm also interested in learning more about networking, system infrastructure, and how different technologies work together.
+
+- 🎮 Gaming — especially Wuthering Waves
+- 📷 Photography — capturing everyday moments
+- 🎬 Movies — discovering stories and creative ideas
+- 🖥️ Technology — exploring software, networks, and infrastructure
+
+## <img src="https://img.shields.io/badge/05-LET'S_CONNECT-E84A70?style=flat-square" alt="05 Let's connect" />
+
+I'm open to **junior developer and entry-level software development opportunities** where I can contribute to real projects, learn from experienced teammates, and continue growing as an engineer.
 
 <div align="center">
 
-<a href="https://github.com/IvanRamiro">GitHub</a>
-&nbsp; ◈ &nbsp;
-<a href="https://ivan-ramiro-portfolio.vercel.app/">Portfolio</a>
-&nbsp; ◈ &nbsp;
-<a href="https://scivrse.web.app/">SCIVRSE</a>
+<a href="https://github.com/IvanRamiro">
+  <img src="https://img.shields.io/badge/GitHub-242124?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+</a>
+<a href="https://ivan-ramiro-portfolio.vercel.app/">
+  <img src="https://img.shields.io/badge/Portfolio-FF6B81?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
+</a>
+<a href="https://scivrse.web.app/">
+  <img src="https://img.shields.io/badge/SCIVRSE-CB416B?style=for-the-badge&logo=googlechrome&logoColor=white" alt="SCIVRSE" />
+</a>
 
 <br/><br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0D47A1&height=100&section=footer" width="100%" alt="Blue animated-style footer banner" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:9D174D,50:E84A70,100:FF9AAF&height=120&section=footer" width="100%" alt="Animated crimson and pink footer" />
 
-<sub>Thanks for stopping by. See you on the next journey. ✦</sub>
+<sub>Thanks for visiting my profile. More to build, more to learn. ✦</sub>
 
 </div>
