@@ -1,17 +1,22 @@
- <!-- Profile README for github.com/IvanRamiro -->
+
+<!-- Profile README for github.com/IvanRamiro -->
 
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:161B22,100:0D47A1&height=200&section=header&text=JOHN%20IVAN%20RAMIRO&fontSize=36&fontColor=90CAF9&animation=fadeIn&fontAlignY=38&desc=COMPUTER%20ENGINEER%20%7C%20DEVELOPER&descSize=14&descAlignY=60" width="100%" alt="Dark blue developer banner"/>
 
 <a href="https://git.io/typing-svg">
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=19&duration=3000&pause=1000&color=90CAF9&center=true&vCenter=true&width=650&lines=Hey%2C+I'm+Ivan+%F0%9F%91%8B;Computer+Engineering+Graduate;Aspiring+Full-Stack+Developer;Building+projects+and+learning+every+day;Code.+Learn.+Improve.+Repeat.+%E2%9A%A1" alt="Animated typing introduction"/>
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=19&duration=3000&pause=1000&color=90CAF9&center=true&vCenter=true&width=650&lines=Hey%2C+I'm+Ivan+%F0%9F%91%8B;Computer+Engineering+Graduate;Aspiring+Full-Stack+Developer;Building+projects+and+learning+every+day;Code.+Learn.+Improve.+Repeat.+%E2%9A%A1" alt="Animated typing introduction"/>
 </a>
 
 <br/>
 
-[![GitHub](https://img.shields.io/badge/GitHub-IvanRamiro-161B22?style=for-the-badge&logo=github&logoColor=90CAF9)](https://github.com/IvanRamiro)
-[![Repositories](https://img.shields.io/badge/Explore-My_Projects-161B22?style=for-the-badge&logo=github&logoColor=90CAF9)](https://github.com/IvanRamiro?tab=repositories)
+<a href="https://github.com/IvanRamiro">
+  <img src="https://img.shields.io/badge/GitHub-IvanRamiro-161B22?style=for-the-badge&logo=github&logoColor=90CAF9" alt="GitHub profile"/>
+</a>
+<a href="https://github.com/IvanRamiro?tab=repositories">
+  <img src="https://img.shields.io/badge/Explore-My_Projects-161B22?style=for-the-badge&logo=github&logoColor=90CAF9" alt="Explore my projects"/>
+</a>
 
 </div>
 
@@ -31,31 +36,35 @@ I enjoy building projects, exploring new technologies, and understanding how thi
 
 > *Still learning, still building, and always looking for the next level.*
 
+---
+
 ## ⚔️ Tech Stack
 
-### Languages
+### 💻 Languages
 
 <p>
   <img src="https://skillicons.dev/icons?i=js,ts,python,cs,html,css&theme=dark" alt="JavaScript, TypeScript, Python, C sharp, HTML, CSS"/>
 </p>
 
-### Frontend Development
+### ⚛️ Frontend Development
 
 <p>
   <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,figma&theme=dark" alt="React, Next.js, Tailwind CSS, Figma"/>
 </p>
 
-### Backend and Databases
+### 🛠️ Backend and Databases
 
 <p>
   <img src="https://skillicons.dev/icons?i=nodejs,supabase,postgres,mysql&theme=dark" alt="Node.js, Supabase, PostgreSQL, MySQL"/>
 </p>
 
-### Tools and Infrastructure
+### 🔧 Tools and Infrastructure
 
 <p>
   <img src="https://skillicons.dev/icons?i=git,github,vscode,docker,linux,postman,vercel&theme=dark" alt="Git, GitHub, VS Code, Docker, Linux, Postman, Vercel"/>
 </p>
+
+---
 
 ## 🚀 Featured Projects
 
@@ -63,15 +72,15 @@ I enjoy building projects, exploring new technologies, and understanding how thi
 
 My personal portfolio showcasing my background, technical interests, and development projects.
 
-**Tech:** Next.js · TypeScript · GSAP
+**Tech Stack:** Next.js · TypeScript · GSAP
 
-[View my Portfolio Webstite]([https://ivan-ramiro-portfolio.vercel.app/])
+🔗 [View My Portfolio Website](https://ivan-ramiro-portfolio.vercel.app/)
 
 ### 🔔 Personal Nudge
 
 A reminder application concept focused on personal reminders, reusable routines, scheduled steps, and progress tracking.
 
-**Planned stack:** Next.js · TypeScript · Supabase · PostgreSQL
+**Planned Tech Stack:** Next.js · TypeScript · Supabase · PostgreSQL
 
 *Status: In development / planning.*
 
@@ -79,10 +88,11 @@ A reminder application concept focused on personal reminders, reusable routines,
 
 An academic game development project created with teammates as part of my thesis.
 
-**Tech:** C# · Unity
+**Tech Stack:** C# · Unity
 
-[Explore my GitHub]([https://scivrse.web.app/])
+🔗 [Play the Project](https://scivrse.web.app/)
 
+---
 
 ## 🎯 Current Goals
 
@@ -91,7 +101,9 @@ An academic game development project created with teammates as part of my thesis
 - [ ] Strengthen backend development and database design.
 - [ ] Improve testing, code quality, and application security.
 - [ ] Learn more about DevOps and networking.
-- [ ] Contribute to projects and keep building my portfolio.
+- [ ] Keep building projects and improving my portfolio.
+
+---
 
 ## 🎮 Beyond the Code
 
@@ -112,7 +124,7 @@ An academic game development project created with teammates as part of my thesis
 *Every project is another step forward.*
 
 <a href="https://github.com/IvanRamiro?tab=repositories">
-<img src="https://img.shields.io/badge/Explore_My_Projects-0D1117?style=for-the-badge&logo=github&logoColor=90CAF9" alt="Explore my projects"/>
+  <img src="https://img.shields.io/badge/Explore_My_Projects-0D1117?style=for-the-badge&logo=github&logoColor=90CAF9" alt="Explore my projects"/>
 </a>
 
 <br/><br/>
