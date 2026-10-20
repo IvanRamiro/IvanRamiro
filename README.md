@@ -1,7 +1,7 @@
 <div align="center">
   <img
     src="Hiyuki.jpg"
-    width="100%"
+    width="50%"
     alt="Wuthering Waves background artwork"
   />
 </div>
