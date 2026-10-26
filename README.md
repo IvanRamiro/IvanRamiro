@@ -1,4 +1,4 @@
- <div align="center">
+<div align="center">
 
   <img src="./Hiyuki.jpg" width="58%" alt="Hiyuki — Wuthering Waves inspired profile artwork" />
 
@@ -15,13 +15,16 @@
   </p>
 
   <a href="https://ivan-ramiro-portfolio.vercel.app/">
-    <img src="https://img.shields.io/badge/PORTFOLIO-FF6B81?style=for-the-badge&logo=vercel&logoColor=white" alt="Visit my portfolio" />
+    <img src="https://img.shields.io/badge/MAIN_PORTFOLIO-FF6B81?style=for-the-badge&logo=vercel&logoColor=white" alt="Visit my main portfolio" />
+  </a>
+  <a href="https://twilight-pixelportfolio.vercel.app/">
+    <img src="https://img.shields.io/badge/PIXEL_PORTFOLIO-CB416B?style=for-the-badge&logo=vercel&logoColor=white" alt="Explore my interactive portfolio" />
   </a>
   <a href="https://github.com/IvanRamiro">
     <img src="https://img.shields.io/badge/GITHUB-242124?style=for-the-badge&logo=github&logoColor=white" alt="My GitHub profile" />
   </a>
   <a href="https://scivrse.web.app/">
-    <img src="https://img.shields.io/badge/SCIVRSE-CB416B?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Explore SCIVRSE" />
+    <img src="https://img.shields.io/badge/SCIVRSE-9D174D?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Explore SCIVRSE" />
   </a>
 
 </div>
@@ -32,7 +35,7 @@
 
 Hi, I'm Ivan, a **Computer Engineering graduate** interested in building useful software and understanding the systems behind it.
 
-I'm currently developing my skills in full-stack web development, with a growing interest in backend engineering, databases, networking, and DevOps. I learn best by working on real projects, experimenting with new tools, and figuring out how to solve problems along the way.
+I'm developing my skills in full-stack web development, with a growing interest in backend engineering, databases, networking, and DevOps. I learn best by working on real projects, experimenting with new tools, and figuring out how to solve problems along the way.
 
 My goal is to grow as a developer by building maintainable applications, strengthening my technical foundation, and continuously improving my approach to software development.
 
@@ -56,18 +59,29 @@ My goal is to grow as a developer by building maintainable applications, strengt
 
 ## <img src="https://img.shields.io/badge/03-SELECTED_PROJECTS-E84A70?style=flat-square" alt="03 Selected projects" />
 
-### <img src="https://img.shields.io/badge/01-LIVE_PROJECT-FF6B81?style=flat-square" alt="Live project" /> Personal Portfolio
+### <img src="https://img.shields.io/badge/01-PROFESSIONAL_PORTFOLIO-FF6B81?style=flat-square" alt="Professional portfolio" /> Main Developer Portfolio
 
-My developer portfolio, built to present my background, technical interests, and projects in one place.
+My primary portfolio, built to present my technical background, projects, and interests in software development and engineering.
 
-- **Focus:** personal branding, web development, and responsive presentation
-- **Purpose:** showcase my work and ongoing growth as an engineer
+- **Focus:** full-stack development, technical presentation, and responsive design
+- **Purpose:** showcase my skills, projects, and professional growth as an engineer
 
-[**View portfolio →**](https://ivan-ramiro-portfolio.vercel.app/)
+[**Visit Main Portfolio →**](https://ivan-ramiro-portfolio.vercel.app/)
 
 ---
 
-### <img src="https://img.shields.io/badge/02-LIVE_PROJECT-CB416B?style=flat-square" alt="Live project" /> SCIVRSE
+### <img src="https://img.shields.io/badge/02-INTERACTIVE_PORTFOLIO-CB416B?style=flat-square" alt="Interactive portfolio" /> Twilight Pixel Portfolio
+
+A creative, playful portfolio that explores a more interactive approach to personal branding and web design.
+
+- **Focus:** interactive experiences, creative presentation, and visual design
+- **Purpose:** experiment with a more expressive portfolio experience and showcase another side of my web development interests
+
+[**Explore Interactive Portfolio →**](https://twilight-pixelportfolio.vercel.app/)
+
+---
+
+### <img src="https://img.shields.io/badge/03-LIVE_PROJECT-9D174D?style=flat-square" alt="Live project" /> SCIVRSE
 
 A web project that reflects my interest in creating digital experiences and exploring ideas through the web.
 
@@ -75,14 +89,14 @@ A web project that reflects my interest in creating digital experiences and expl
 
 ---
 
-### <img src="https://img.shields.io/badge/03-IN_PROGRESS-9D174D?style=flat-square" alt="In progress" /> Personal Nudge
+### <img src="https://img.shields.io/badge/04-IN_PROGRESS-9D174D?style=flat-square" alt="In progress" /> Personal Nudge
 
 A reminder app concept built around individual nudges and reusable routines to help people remember everyday tasks and follow through on them.
 
 - **Planned stack:** Next.js, TypeScript, Supabase, and PostgreSQL
 - **Focus:** authentication, database design, scheduled reminders, and routine tracking
 
-*Currently in the planning and development process.*
+*Currently in development.*
 
 ## <img src="https://img.shields.io/badge/04-BEYOND_CODE-FF6B81?style=flat-square" alt="04 Beyond code" />
 
@@ -95,7 +109,7 @@ Outside development, I enjoy gaming, photography, and movies. I'm also intereste
 
 ## <img src="https://img.shields.io/badge/05-LET'S_CONNECT-E84A70?style=flat-square" alt="05 Let's connect" />
 
-I'm open to **junior developer and entry-level software development opportunities** where I can contribute to real projects, learn from experienced teammates, and continue growing as an engineer.
+I'm open to **junior developer, entry-level software development, and other suitable technology opportunities** where I can contribute to real projects, learn from experienced teammates, and continue growing as an engineer.
 
 <div align="center">
 
@@ -103,10 +117,13 @@ I'm open to **junior developer and entry-level software development opportunitie
   <img src="https://img.shields.io/badge/GitHub-242124?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
 </a>
 <a href="https://ivan-ramiro-portfolio.vercel.app/">
-  <img src="https://img.shields.io/badge/Portfolio-FF6B81?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
+  <img src="https://img.shields.io/badge/Main_Portfolio-FF6B81?style=for-the-badge&logo=vercel&logoColor=white" alt="Main portfolio" />
+</a>
+<a href="https://twilight-pixelportfolio.vercel.app/">
+  <img src="https://img.shields.io/badge/Pixel_Portfolio-CB416B?style=for-the-badge&logo=vercel&logoColor=white" alt="Interactive portfolio" />
 </a>
 <a href="https://scivrse.web.app/">
-  <img src="https://img.shields.io/badge/SCIVRSE-CB416B?style=for-the-badge&logo=googlechrome&logoColor=white" alt="SCIVRSE" />
+  <img src="https://img.shields.io/badge/SCIVRSE-9D174D?style=for-the-badge&logo=googlechrome&logoColor=white" alt="SCIVRSE" />
 </a>
 
 <br/><br/>
