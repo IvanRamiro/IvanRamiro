@@ -87,17 +87,6 @@ A web project that reflects my interest in creating digital experiences and expl
 
 [**Explore SCIVRSE →**](https://scivrse.web.app/)
 
----
-
-### <img src="https://img.shields.io/badge/04-IN_PROGRESS-9D174D?style=flat-square" alt="In progress" /> Personal Nudge
-
-A reminder app concept built around individual nudges and reusable routines to help people remember everyday tasks and follow through on them.
-
-- **Planned stack:** Next.js, TypeScript, Supabase, and PostgreSQL
-- **Focus:** authentication, database design, scheduled reminders, and routine tracking
-
-*Currently in development.*
-
 ## <img src="https://img.shields.io/badge/04-BEYOND_CODE-FF6B81?style=flat-square" alt="04 Beyond code" />
 
 Outside development, I enjoy gaming, photography, and movies. I'm also interested in learning more about networking, system infrastructure, and how different technologies work together.
@@ -123,13 +112,4 @@ I'm open to **junior developer, entry-level software development, and other suit
   <img src="https://img.shields.io/badge/Pixel_Portfolio-CB416B?style=for-the-badge&logo=vercel&logoColor=white" alt="Interactive portfolio" />
 </a>
 <a href="https://scivrse.web.app/">
-  <img src="https://img.shields.io/badge/SCIVRSE-9D174D?style=for-the-badge&logo=googlechrome&logoColor=white" alt="SCIVRSE" />
-</a>
-
-<br/><br/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:9D174D,50:E84A70,100:FF9AAF&height=120&section=footer" width="100%" alt="Animated crimson and pink footer" />
-
-<sub>Thanks for visiting my profile. More to build, more to learn. ✦</sub>
-
-</div>
+  <img src="https://img.shields.io/badge/SCIVRSE-9D174D?style=for-the-badge&logo=googlechrome&
